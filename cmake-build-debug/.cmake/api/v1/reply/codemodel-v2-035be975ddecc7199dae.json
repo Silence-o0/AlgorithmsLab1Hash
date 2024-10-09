@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AlgorithmsLab1Hash",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AlgorithmsLab1Hash::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AlgorithmsLab1Hash-Debug-f382984ac8f782c5b257.json",
+					"name" : "AlgorithmsLab1Hash",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/Olga.ZEN-4QTIB9V/Documents/Projects/AlgorithmsLab1Hash/cmake-build-debug",
+		"source" : "/mnt/c/Users/Olga.ZEN-4QTIB9V/Documents/Projects/AlgorithmsLab1Hash"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

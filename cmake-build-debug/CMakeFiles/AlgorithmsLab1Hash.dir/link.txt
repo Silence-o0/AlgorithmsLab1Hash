@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/AlgorithmsLab1Hash.dir/main.cpp.o -o AlgorithmsLab1Hash 
