@@ -1,3 +1,0 @@
-/mnt/c/Users/Olga.ZEN-4QTIB9V/Documents/Projects/AlgorithmsLab1Hash/cmake-build-debug/CMakeFiles/AlgorithmsLab1Hash.dir
-/mnt/c/Users/Olga.ZEN-4QTIB9V/Documents/Projects/AlgorithmsLab1Hash/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Olga.ZEN-4QTIB9V/Documents/Projects/AlgorithmsLab1Hash/cmake-build-debug/CMakeFiles/rebuild_cache.dir
